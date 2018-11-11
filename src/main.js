@@ -3,7 +3,12 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+import './assets/styles.scss'
+
 Vue.config.productionTip = false
+
+// firebase
+import './initFirebase'
 
 new Vue({
   router,

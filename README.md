@@ -1,4 +1,6 @@
-# team-onboarding
+# Vue Firebase Starter Kit
+- a starter kit to quickly prototype with Vue, Firebase Auth and DB
+- uses vue, vuex, vue router, firebase, vuexfire, vue cli-service 3
 
 ## Project setup
 ```
